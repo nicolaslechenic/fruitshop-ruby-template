@@ -1,1 +1,1 @@
-# fruitshop-ruby-template
+# Fruitshop ruby template
